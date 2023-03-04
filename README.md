@@ -4,13 +4,13 @@
 
 ### Estudante buscando se desenvolver e aprender coisas novas todos os dias.
 
-[![Caue397's GitHub stats](https://github-readme-stats.vercel.app/api?username=Caue397&theme=radical)]
+![Caue397's GitHub stats](https://github-readme-stats.vercel.app/api?username=Caue397&theme=radical)
 
 ## Tecnologias Principais
 
 </br>
 
-[![Caue397's Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Caue397&layout=compact&theme=radical)]
+![Caue397's Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Caue397&layout=compact&theme=radical)
 
 <div>
   <img alt="Caue-Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
