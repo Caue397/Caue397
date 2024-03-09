@@ -1,7 +1,7 @@
 ## Olá, eu sou o Cauê!! 
 
 <a href="https://www.linkedin.com/in/cau%C3%AA-gallizzi-61a77724a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://portfolio-caue.netlify.app/" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/Portf%C3%B3lio-333333?style=for-the-badge"></a>
+<a href="https://portfolio-caue.netlify.app/" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/Meu%20Portf%C3%B3lio-333333?style=for-the-badge"></a>
 
 ### Sou um desenvolvedor FullStack que procura se aperfeiçoar todos os dias.
 
