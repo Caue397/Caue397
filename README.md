@@ -3,10 +3,6 @@
 <a href="https://www.linkedin.com/in/caue-gallizzi-dev/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://cg-developer.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-333333?style=for-the-badge" />
-</a>
-
 ---
 
 ### 👨‍💻 Software Developer (Full Stack)
