@@ -37,8 +37,7 @@ Currently, I am in the **final phase of my degree in Information Systems** and l
 ---
 
 ## ⚙️ Additional Experience
-
-- Java & Spring Boot  
+ 
 - REST APIs and system integrations  
 - Cloud deployment (Vercel, Railway, VPS)  
 - Git & GitHub  
