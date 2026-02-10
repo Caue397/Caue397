@@ -51,5 +51,4 @@ Currently, I am in the **final phase of my degree in Information Systems** and l
 
 - 📧 Email: **cauegallizzi397@gmail.com**
 - 📱 Phone: **+55 (11) 98529-6758**
-- 🌐 Portfolio: https://cg-developer.vercel.app/
 - 💼 LinkedIn: https://www.linkedin.com/in/caue-gallizzi-dev/
