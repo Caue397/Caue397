@@ -10,23 +10,15 @@
 
 ### 🇧🇷 Português
 
-Sou um desenvolvedor de software com mais de **2 anos de experiência prática** construindo **aplicações web, APIs e automações**, atuando de forma **autônoma** desde o design do sistema até o deploy.
+Desenvolvedor de software com mais de **2 anos de experiência autônoma** no desenvolvimento de sistemas web, APIs e automações, atuando desde a modelagem até o deploy em **ambientes de produção**. Em formação no bacharelado em **Sistemas de Informação pela Universidade Anhembi Morumbi** e formações profissionalizantes em **Full Stack Java / JavaScript**.
 
-Ao longo desse período, trabalhei com **clientes reais**, desenvolvendo soluções sob demanda, o que me proporcionou experiência na manutenção e melhoria de **código em produção**, lidando com correção de bugs, integrações e melhorias contínuas.
-
-Meu foco é construir **soluções simples, funcionais e bem estruturadas**, sempre priorizando o entendimento do problema antes de escolher a tecnologia.
-
-Atualmente estou na **fase final da minha graduação em Sistemas de Informação** e busco minha primeira oportunidade no mercado formal como **Desenvolvedor de Software Estagiário, Júnior ou Trainee**, onde possa crescer tecnicamente, contribuir com projetos reais e me desenvolver dentro de um time.
+Vivência com manutenção evolutiva, correção de bugs e atendimento a **demandas reais de usuários**. Utiliza ferramentas de IA, como **Claude Code e Cursor**, para otimização de workflows, refatorações, testes e automação de tarefas, mantendo total domínio técnico das soluções implementadas. Possui abordagem orientada à **resolução de problemas**, priorizando soluções simples, funcionais e bem estruturadas.
 
 ### 🇺🇸 English
 
-I am a software developer with over **2 years of hands-on experience** building **web applications, APIs, and automations**, working **independently** from system design to deployment.
+Software developer with over **2 years of independent experience** building web systems, APIs, and automations, working from system modeling to deployment in **production environments**. Currently pursuing a Bachelor's degree in **Information Systems at Universidade Anhembi Morumbi**, with additional professional training in **Full Stack Java / JavaScript**.
 
-Throughout this period, I worked with **real clients**, developing solutions on demand, which gave me experience maintaining and improving **production code**, handling bug fixes, integrations, and continuous improvements.
-
-My focus is on building **simple, functional, and well-structured solutions**, always prioritizing understanding the problem before choosing the technology.
-
-Currently, I am in the **final phase of my degree in Information Systems** and looking for my first opportunity in the formal job market as an **Intern, Junior, or Trainee Software Developer**, where I can grow technically, contribute to real projects, and evolve within a team.
+Experienced in evolutionary maintenance, bug fixing, and handling **real user demands**. Makes use of AI tools such as **Claude Code and Cursor** to optimize workflows, refactoring, testing, and task automation — always maintaining full technical understanding of the implemented solutions. Problem-oriented approach, prioritizing **simple, functional, and well-structured solutions**.
 
 ---
 
