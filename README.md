@@ -8,8 +8,6 @@
 
 ### 👨‍💻 Software Developer (Full Stack)
 
----
-
 ### 🇧🇷 Português
 
 Sou um desenvolvedor de software com mais de **2 anos de experiência prática** construindo **aplicações web, APIs e automações**, atuando de forma **autônoma** desde o design do sistema até o deploy.
