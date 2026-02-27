@@ -8,6 +8,18 @@
 
 ### 👨‍💻 Software Developer (Full Stack)
 
+### 🇧🇷 Português
+
+Sou um desenvolvedor de software com mais de **2 anos de experiência prática** construindo **aplicações web, APIs e automações**, atuando desde o **design do sistema até o deploy**.
+
+Tenho experiência na manutenção e melhoria de **código em produção**, lidando com demandas reais de usuários, correção de bugs, integrações e melhorias contínuas.
+
+Meu foco é construir **soluções simples, funcionais e bem estruturadas**, sempre priorizando o entendimento do problema antes de escolher a tecnologia.
+
+Atualmente estou na **fase final da minha graduação em Sistemas de Informação** e busco uma oportunidade como **Desenvolvedor de Software Estagiário, Júnior ou Trainee**, onde possa crescer tecnicamente, contribuir com projetos reais e me desenvolver dentro de um time.
+
+### 🇺🇸 English
+
 I am a software developer with over **2 years of hands-on experience** building **web applications, APIs, and automations**, working from **system design to deployment**.
 
 I have experience maintaining and improving **production code**, handling real user demands, bug fixes, integrations, and continuous improvements.
