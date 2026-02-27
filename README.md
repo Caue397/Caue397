@@ -8,25 +8,29 @@
 
 ### 👨‍💻 Software Developer (Full Stack)
 
+---
+
 ### 🇧🇷 Português
 
-Sou um desenvolvedor de software com mais de **2 anos de experiência prática** construindo **aplicações web, APIs e automações**, atuando desde o **design do sistema até o deploy**.
+Sou um desenvolvedor de software com mais de **2 anos de experiência prática** construindo **aplicações web, APIs e automações**, atuando de forma **autônoma** desde o design do sistema até o deploy.
 
-Tenho experiência na manutenção e melhoria de **código em produção**, lidando com demandas reais de usuários, correção de bugs, integrações e melhorias contínuas.
+Ao longo desse período, trabalhei com **clientes reais**, desenvolvendo soluções sob demanda, o que me proporcionou experiência na manutenção e melhoria de **código em produção**, lidando com correção de bugs, integrações e melhorias contínuas.
 
 Meu foco é construir **soluções simples, funcionais e bem estruturadas**, sempre priorizando o entendimento do problema antes de escolher a tecnologia.
 
-Atualmente estou na **fase final da minha graduação em Sistemas de Informação** e busco uma oportunidade como **Desenvolvedor de Software Estagiário, Júnior ou Trainee**, onde possa crescer tecnicamente, contribuir com projetos reais e me desenvolver dentro de um time.
+Atualmente estou na **fase final da minha graduação em Sistemas de Informação** e busco minha primeira oportunidade no mercado formal como **Desenvolvedor de Software Estagiário, Júnior ou Trainee**, onde possa crescer tecnicamente, contribuir com projetos reais e me desenvolver dentro de um time.
+
+---
 
 ### 🇺🇸 English
 
-I am a software developer with over **2 years of hands-on experience** building **web applications, APIs, and automations**, working from **system design to deployment**.
+I am a software developer with over **2 years of hands-on experience** building **web applications, APIs, and automations**, working **independently** from system design to deployment.
 
-I have experience maintaining and improving **production code**, handling real user demands, bug fixes, integrations, and continuous improvements.
+Throughout this period, I worked with **real clients**, developing solutions on demand, which gave me experience maintaining and improving **production code**, handling bug fixes, integrations, and continuous improvements.
 
 My focus is on building **simple, functional, and well-structured solutions**, always prioritizing understanding the problem before choosing the technology.
 
-Currently, I am in the **final phase of my degree in Information Systems** and looking for an opportunity as an **Intern, Junior, or Trainee Software Developer**, where I can grow technically, contribute to real projects, and evolve within a team.
+Currently, I am in the **final phase of my degree in Information Systems** and looking for my first opportunity in the formal job market as an **Intern, Junior, or Trainee Software Developer**, where I can grow technically, contribute to real projects, and evolve within a team.
 
 ---
 
