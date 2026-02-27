@@ -12,7 +12,7 @@
 
 Desenvolvedor de software com mais de **2 anos de experiência autônoma** no desenvolvimento de sistemas web, APIs e automações, atuando desde a modelagem até o deploy em **ambientes de produção**. Em formação no bacharelado em **Sistemas de Informação pela Universidade Anhembi Morumbi** e formações profissionalizantes em **Full Stack Java / JavaScript**.
 
-Vivência com manutenção evolutiva, correção de bugs e atendimento a **demandas reais de usuários**. Utiliza ferramentas de IA, como **Claude Code e Cursor**, para otimização de workflows, refatorações, testes e automação de tarefas, mantendo total domínio técnico das soluções implementadas. Possui abordagem orientada à **resolução de problemas**, priorizando soluções simples, funcionais e bem estruturadas.
+Vivência com manutenção evolutiva, correção de bugs e atendimento a **demandas reais de usuários**. Utilizo ferramentas de IA, como **Claude Code e Cursor**, para otimização de workflows, refatorações, testes e automação de tarefas, mantendo total domínio técnico das soluções implementadas. Possui abordagem orientada à **resolução de problemas**, priorizando soluções simples, funcionais e bem estruturadas.
 
 ### 🇺🇸 English
 
