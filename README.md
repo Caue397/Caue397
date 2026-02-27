@@ -18,8 +18,6 @@ Meu foco é construir **soluções simples, funcionais e bem estruturadas**, sem
 
 Atualmente estou na **fase final da minha graduação em Sistemas de Informação** e busco minha primeira oportunidade no mercado formal como **Desenvolvedor de Software Estagiário, Júnior ou Trainee**, onde possa crescer tecnicamente, contribuir com projetos reais e me desenvolver dentro de um time.
 
----
-
 ### 🇺🇸 English
 
 I am a software developer with over **2 years of hands-on experience** building **web applications, APIs, and automations**, working **independently** from system design to deployment.
